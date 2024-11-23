@@ -1,3 +1,24 @@
+
+//Types of return type in c programming
+
+/*
+1. a function declaration with a return type and parameter
+example: int sum(int a, int b)
+
+2. a function declaration with no parameters void
+example: void diplay(void)
+
+3. a function  declaration with no return type
+example: sum(int a, int b)
+
+4. a function declaration without parameters()
+example;void random();
+
+*/
+
+
+
+
 #include <stdio.h>
 
 int main() {
