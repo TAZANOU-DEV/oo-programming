@@ -6,3 +6,6 @@ function myfunction(){
 
     
 }
+
+document.getElementById('p1').style.color = "red";
+document.getElementsByClassName('p2')[0][1].style.color ="red";
